@@ -1,5 +1,5 @@
 ## Hi I'm Michelle 👋
-🔭 Incoming CS + Quant Econ @ [Smith College]([url](https://www.google.com//search?udm=14&q=smith+college))
+🔭 Incoming CS + Quant Econ @ [Smith College]((https://www.google.com//search?udm=14&q=smith+college)
 <!--
 **mimimelonxxxx/mimimelonxxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
